@@ -5,6 +5,7 @@ Multitask learning for Computer Vision; Vision Transformers Basics
 ## Multitask learning for Computer Vision
 
 * [Notebook 1: Multitask into](./multitask/1.multitask-intro.ipynb)
+* [Notebook 2: Classification and Segmentation on the Oxford IIIT Pet dataset](./multitask/2.multitask-and-transfer-learning.ipynb)
 
 ## Vision Transformers (ViT) Basics
 
