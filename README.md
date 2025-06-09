@@ -6,7 +6,7 @@ Multitask learning for Computer Vision; Vision Transformers Basics
 
 * [Notebook 1: Multitask into](./multitask/1.multitask-intro.ipynb)
 * [Notebook 2: Classification and Segmentation on the Oxford IIIT Pet dataset](./multitask/2.multitask-and-transfer-learning.ipynb)
-* Bonus [Notebook 3: Advanced Data Augmentation techinques and Test Time Augmentation](https://colab.research.google.com/github/Tensor-Reloaded/IOAI-Workshop-CV-1/blob/main/multitask/3.advanced-data-augmentation-and-tta.ipynb)
+* Bonus [Notebook 3: Advanced Data Augmentation techinques and Test Time Augmentation](https://colab.research.google.com/github/Tensor-Reloaded/IOAI-Workshop-CV-1/blob/main/multitask/3.advanced-data-augmentation-and-tta.ipynb) (Google Colab link because the notebook does not render in browser on GitHub)
 
 ## Vision Transformers (ViT) Basics
 
