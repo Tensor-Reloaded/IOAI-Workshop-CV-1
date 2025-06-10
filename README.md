@@ -10,6 +10,8 @@ Multitask learning for Computer Vision; Vision Transformers Basics
 
 ## Vision Transformers (ViT) Basics
 
+* [Notebook 4: ViT classification benckmark](./vit/4.vit-classification.ipynb)
+
 References:
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/pdf?id=YicbFdNTTy)
 * [Basic ViT implementation](https://nn.labml.ai/transformers/vit/index.html)
