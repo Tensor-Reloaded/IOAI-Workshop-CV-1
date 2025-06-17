@@ -11,7 +11,7 @@ Multitask learning for Computer Vision; Vision Transformers Basics
 ## Vision Transformers (ViT) Basics
 
 * [Notebook 4: ViT classification benckmark](./vit/4.vit-classification.ipynb) (also open in [Google Colab](https://colab.research.google.com/github/Tensor-Reloaded/IOAI-Workshop-CV-1/blob/main/vit/4.vit-classification.ipynb))
-* Bonus [Notebook 5: ViT - Ensemble methods and Model Soup](./vit/4.vit-classification.ipynb) (also open in [Google Colab](https://colab.research.google.com/github/Tensor-Reloaded/IOAI-Workshop-CV-1/blob/main/vit/5.vit-ensemble-and-soup.ipynb))
+* Bonus [Notebook 5: ViT - Ensemble methods and Model Soup](./vit/5.vit-ensemble-and-soup.ipynb) (also open in [Google Colab](https://colab.research.google.com/github/Tensor-Reloaded/IOAI-Workshop-CV-1/blob/main/vit/5.vit-ensemble-and-soup.ipynb))
 
 References:
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/pdf?id=YicbFdNTTy)
